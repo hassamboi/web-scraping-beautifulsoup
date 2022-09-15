@@ -1,5 +1,6 @@
 # Web Scraping using Beautiful Soup
-Scraping data from two websites using Beautiful Soup and storing them in csv files.
+Scraping data from two websites using Beautiful Soup and storing them in csv files. 
+> Robots.txt file for both the websites were checked before scraping the data and used within ethical and legal boundaries.
 
 ## Website 1
 Scraping the theme (category), image link, quotes, quotes-url.
